@@ -24,14 +24,14 @@ const Patients = () => {
         cellClassName: "name-column--cell",
     },
     {
-      field: "gender",
-      headerName: "Gender",
+      field: "username",
+      headerName: "Username",
       headerAlign: "left",
       align: "left",
     },
     {
-      field: "email",
-      headerName: "Email",
+      field: "userhash",
+      headerName: "Userhash",
       flex: 1,
     },
   ];
