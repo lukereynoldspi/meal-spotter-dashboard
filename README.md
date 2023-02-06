@@ -1,4 +1,6 @@
-# React Admin Dashboard
+# Food Image Dashboard Project
 
-Completed React Admin Dashboard Repo
+Oregon State University Capstone Project
 
+Authors:
+Food Image Dashboard Team
